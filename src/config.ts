@@ -1,11 +1,11 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  website: "https://istiaqhossain.github.io/", // replace this with your deployed domain
+  author: "Istiaq Hossain",
+  profile: "https://istiaqhossain.com/",
+  desc: "A Full Stack Developer.",
+  title: "Istiaq Hossain",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -27,8 +27,14 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
+    name: "LinkedIn",
+    href: "https://www.linkedin.com/in/istiaq-hossain/",
+    linkTitle: `${SITE.title} on LinkedIn`,
+    active: true,
+  },
+  {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/istiaqhossain",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
@@ -36,19 +42,13 @@ export const SOCIALS: SocialObjects = [
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
-  },
-  {
-    name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
+    active: false,
   },
   {
     name: "Mail",

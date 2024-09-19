@@ -1,6 +1,6 @@
 ---
-layout: ../layouts/AboutLayout.astro
-title: "About"
+layout: ../layouts/ConnectLayout.astro
+title: "Connect"
 ---
 
 <!--
