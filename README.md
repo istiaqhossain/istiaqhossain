@@ -1,7 +1,7 @@
 Hi 👋 My name is Istiaq Hossain
 ===============================
 
-Software Developer
+I am a software developer.
 ------------------
 
 <!--
