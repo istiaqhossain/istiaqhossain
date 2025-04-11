@@ -1,8 +1,11 @@
-Hi 👋 My name is Istiaq Hossain
-===============================
+# Hi there! 👋 I'm Istiaq Hossain
 
-I am a software developer.
-------------------
+I'm a software developer passionate about solving problems through different tech stack. Welcome to my GitHub profile!
+
+## About Me
+- 🌱 I'm currently learning TDD, CI/CD, DevOps
+- 💼 I'm working on WordPress Gutenberg, Laravel, Next.js, Nuxt.js
+- 🎯 My goal is to become problem solver and serve millions of people by scalable solution 
 
 <!--
 **istiaqhossain/istiaqhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
