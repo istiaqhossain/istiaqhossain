@@ -2,13 +2,12 @@
 
 I'm a software developer passionate about solving problems through different tech stack. Welcome to my GitHub profile!
 
-## About Me
+## 🙋‍♂️ About Me
 - 🌱 I'm currently learning TDD, CI/CD, DevOps
 - 💼 I'm working on WordPress Gutenberg, Laravel, Next.js, Nuxt.js
-- ✍️ I’ve started blogging on personal site to document my journey
 - 🎯 My goal is to become problem solver and serve millions of people by making scalable solution
 
-## Skills
+## 🛠️ Skills
 - Core Concepts: OOP
 - Languages: PHP, JavaScript
 - Frontend: React.js, Vue.js
@@ -17,8 +16,12 @@ I'm a software developer passionate about solving problems through different tec
 - Databases: MySQL
 - Testing, Tools & DevOps: PHPUnit, Git, Docker
 
-## Get in Touch
-- 🔗 Website: [Istiaqhossain.com](https://istiaqhossain.com/)
+## 🏗️ WIP
+- ✍️ Blogging my learning in [istiaqhossain.com](https://istiaqhossain.com/posts/)
+- 📈 Tracking my progress in [roadmap.sh](https://roadmap.sh/u/istiaqhossain)
+
+## 🤝 Get in Touch
+- 🔗 Website: [istiaqhossain.com](https://istiaqhossain.com/)
 - 📫 Email: md.istiaqhossain1990@gmail.com
 - 💼 LinkedIn: [istiaq-hossain](https://www.linkedin.com/in/istiaq-hossain/)
 
