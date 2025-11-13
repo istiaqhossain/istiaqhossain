@@ -10,7 +10,7 @@ I'm a software developer passionate about solving problems through different tec
 ## 🗂️ Projects
 ### Optivine – WordPress Plugin
 
-GitHub: [github.com/istiaqhossain/optivine](https://github.com/istiaqhossain/optivine)
+GitHub: [istiaqhossain/optivine](https://github.com/istiaqhossain/optivine)
 - Developed a full-stack WordPress plugin using OOP PHP, React.js, Vue.js, and RESTful APIs.
 - Built a React/Vue admin ui with custom tables, secure auth, and unit tests following WP standards.
 
