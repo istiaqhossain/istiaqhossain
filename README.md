@@ -7,6 +7,14 @@ I'm a software developer passionate about solving problems through different tec
 - 💼 I'm working on WordPress Gutenberg, Laravel, Next.js, Nuxt.js
 - 🎯 My goal is to become problem solver and serve millions of people by making scalable solution
 
+## 🗂️ Projects
+### Optivine – WordPress Plugin
+
+GitHub: [github.com/istiaqhossain/optivine](https://github.com/istiaqhossain/optivine)
+- Developed a full-stack WordPress plugin using OOP PHP, React.js, Vue.js, and RESTful APIs.
+- Built a React/Vue admin ui with custom tables, secure auth, and unit tests following WP standards.
+
+
 ## 🛠️ Skills
 - Core Concepts: OOP
 - Languages: PHP, JavaScript
